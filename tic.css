@@ -80,6 +80,7 @@
 
 .styleR:hover {
     background-color: rgb(33, 201, 243);
+    cursor: pointer;
 }
 
 .styleR:active {
