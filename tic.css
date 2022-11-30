@@ -9,7 +9,10 @@
   h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
   h1 {font-stretch: semi-expanded;}
   h3 { text-align: center }
-    h3 {color : rgb(5, 5, 82); }
+  h3 {color : rgb(5, 5, 82); }
+
+  h2 { text-align: center }
+  h2 {color : rgb(10, 10, 10); }
 
   .cell {
     border-collapse: separate;
@@ -91,13 +94,6 @@
 body {
     background: linear-gradient(#e66465, #9198e5);
     }
-.lol { 
-    margin-left: 50%;
-    transform: translate(-50%);
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-    color : rgb(5, 5, 82);
-    }
+.lol {text-align: center}
 
 
